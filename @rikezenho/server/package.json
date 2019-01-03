@@ -1,0 +1,9 @@
+{
+  "name": "@rikezenho/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rikezenho/common": "1.0.0"
+  }
+}
